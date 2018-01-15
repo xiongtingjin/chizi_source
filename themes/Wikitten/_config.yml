@@ -59,7 +59,7 @@ history_control: # make you wiki has history version control in page
     enable: true
     server_link: https://github.com # recommend use GitHub https://github.com
     user: xiongtingjin
-    repertory: chizi
+    repertory: chizi_source
     branch: master
 
 # Comment
